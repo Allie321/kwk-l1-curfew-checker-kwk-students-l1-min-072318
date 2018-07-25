@@ -2,7 +2,7 @@ def simple_curfew_checker(time)
   if time >= 23 
     puts "Apparate"
   else 
-    puts "You're in trouble! Better get home quick!"
+    puts "Keep having fun!"
   end 
 end
 simple_curfew_checker(17)
